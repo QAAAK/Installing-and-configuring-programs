@@ -1,3 +1,6 @@
+#!bin/bash
+
+
 user www-data;
 worker_processes auto;
 pid /run/nginx.pid;
