@@ -1,5 +1,6 @@
 #!bin/bash
 
+#vim /serverspace/project/nginx.conf
 
 user www-data;
 worker_processes auto;
