@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Создание основной директории
 mkdir -p serverspace
