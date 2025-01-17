@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 docker run --name "nifi" -p 8443:8443 -d apache/nifi:latest;
 docker logs nifi | grep -A1 "Generated Username";
