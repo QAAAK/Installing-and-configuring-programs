@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 docker exec -i -t nifi /bin/bash
 
