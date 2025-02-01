@@ -1,3 +1,5 @@
+#!/bin/bash
+
 docker pull docker.all-hands.dev/all-hands-ai/runtime:0.18-nikolaik;
 
 docker run -it --rm --pull=always \
